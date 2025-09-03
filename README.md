@@ -1,2 +1,1 @@
-# https://yejin0111.github.io/
-Jin Ye's homepage
+# Jin Ye's Personal Website (https://yejin0111.github.io/)
